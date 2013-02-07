@@ -5,4 +5,4 @@ This is a the [bootstrap switch jquery plugin](https://github.com/nostalgiaz/boo
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt install bootbox`
+2. `mrt install bootstrap-switch`
