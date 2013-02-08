@@ -6,3 +6,9 @@ This is a the [bootstrap switch jquery plugin](https://github.com/nostalgiaz/boo
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
 2. `mrt install bootstrap-switch`
+
+Unlike the original documentation, you must invoke the switches in your appropriate `Template.name.rendered` callback:
+
+    $('.switch')['switch']();
+    
+Make sure you call it like this because `switch` is a reserved word in IE.
