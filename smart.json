@@ -1,8 +1,0 @@
-{
-    "name": "bootstrap-switch",
-    "description": "Bootstrap switch buttons (iOS style)",
-    "homepage": "https://github.com/TimHeckel/meteor-bootstrap-switch",
-    "author": "Tim Heckel  (http://timheckel.com)",
-    "version": "0.1.3",
-    "git": "https://github.com/TimHeckel/meteor-bootstrap-switch.git"
-}
